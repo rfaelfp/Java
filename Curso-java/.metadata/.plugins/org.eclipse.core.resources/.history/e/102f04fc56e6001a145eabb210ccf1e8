@@ -1,0 +1,30 @@
+package fundamentos;
+
+public class TiposPrimitivos {
+ /*
+  * O java possui 8 tipos primitivos.
+  * Inteiros:
+  * 	- Byte -> 1 byte -> -128 até +127
+  * 	- Short -> 2 byte -> +- 32.767 
+  * 	- Int -> 4 byte
+  * 	- Long -> 8 byte
+  * Flutuante:
+  * 	- Float - 4 bytes
+  * 	- Double 8 bytes -> dobro da capacidade do flaot
+  * 
+  * Outros primitivos:
+  * 	- Char: caractere delimitado por aspas simples.
+  * 	- boolean: false ou true.
+  * */
+	
+	// Informações dos funcionários
+	// Tipos numéricos inteiros
+	byte anosEmpresa = 23;
+	short numeroVoos = 542;
+	int id = 56789;
+	long pontosAcumulados = 3_234_845_223L; // O L maiusculo precisa ser indicado no final do valor, quando estourado o range de inteiro (bizarro).
+	
+	// Tipos numéricos reais
+	float salario = 11_445.44;
+	
+}
