@@ -1,0 +1,17 @@
+package classe;
+
+public class Data {
+
+	int dia;
+	int mes;
+	int ano;
+	
+	String obterDataFormatada() {
+		String diaS = String.valueOf(dia);
+		String mesS = String.valueOf(mes);
+		String anoS = String.valueOf(ano);
+		String retorno = diaS + "/" + mesS + "/" + anoS;
+		return retorno;
+		
+	}
+}
