@@ -47,6 +47,8 @@
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
 <fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="oo.composicao.Item"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="oo.composicao.desafio.Produto"/>
+<fullyQualifiedTypeName name="oo.heranca.Direcao"/>
 </qualifiedTypeNameHistroy>
