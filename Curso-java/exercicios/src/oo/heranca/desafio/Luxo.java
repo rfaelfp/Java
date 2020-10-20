@@ -6,6 +6,5 @@ public interface Luxo {
 	void desligarAr();
 	default int velocidadeAr() {
 		return 1;
-	};
-
+	}
 }

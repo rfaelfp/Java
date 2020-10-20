@@ -49,6 +49,10 @@ public class DAO<E> { // Data acess object // O <E> representa uma classe genêri
 		return this.abrirTransacao().incluir(entidade).fecharTransacao();
 	}
 	
+	public E obterPorId(Object id) {
+		return em.find(classe, id);
+	}
+	
 	public List<E> obterTodos() {
 		return this.obterTodos(10, 0);
 	}
