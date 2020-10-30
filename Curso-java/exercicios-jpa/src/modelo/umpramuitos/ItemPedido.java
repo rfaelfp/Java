@@ -2,6 +2,7 @@ package modelo.umpramuitos;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -16,7 +17,7 @@ public class ItemPedido {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	
-	@ManyToOne
+	@ManyToOne (fetch = FetchType.EAGER) // O comportamento padrão da parte Onde é EAGER ou seja já retornado na consulta ("afobado").
 	private Pedido pedido;
 	
 	@ManyToOne
