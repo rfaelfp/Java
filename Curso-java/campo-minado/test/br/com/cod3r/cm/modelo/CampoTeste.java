@@ -117,4 +117,22 @@ public class CampoTeste {
 		campo.abrir();
 		assertTrue(campo22.isAberto() && campo11.isFechado());
 	}
+	
+	@Test
+	void testeMarcado() {
+		campo.alternarMarcacao();;
+		assertEquals("x", campo.toString());
+	}
+	@Test
+	void testeAbertoEMinado() {
+		campo.abrir();
+		campo.minar();
+		assertEquals("*", campo.toString());
+	}
+	@Test
+	void testeAbertoEPossuirMinasVizinhas() {
+		campo.abrir();
+		campo.minasNaVizinhaca();
+		assertEquals(" ", campo.toString());
+	}
 }

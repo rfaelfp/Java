@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=exercicios-jpa/libs\/hibernate-core-5.4.21.Final.jar&lt;org.hibernate.jpa(HibernatePersistenceProvider.class[HibernatePersistenceProvider" modifiers="33" timestamp="1598535418000"/>
-<typeInfo handle="=exercicios-jpa/libs\/mysql-connector-java-5.1.49.jar&lt;com.mysql.jdbc(Driver.class[Driver" modifiers="33" timestamp="1601514075430"/>
-<typeInfo handle="=exercicios-jpa/libs\/hibernate-core-5.4.21.Final.jar&lt;org.hibernate.dialect(MySQL55Dialect.class[MySQL55Dialect" modifiers="33" timestamp="1598535418000"/>
-<typeInfo handle="=clinica/C:\/Program Files\/Java\/jdk-14.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/14\/docs\/api\/=/&lt;java.lang(Error.class[Error" modifiers="33" timestamp="1597973401606"/>
-<typeInfo handle="=clinica/C:\/Program Files\/Java\/jdk-14.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/14\/docs\/api\/=/&lt;java.lang(Throwable.class[Throwable" modifiers="33" timestamp="1597973401606"/>
+    <typeInfo handle="=exercicios-jpa/libs\/hibernate-core-5.4.21.Final.jar&lt;org.hibernate.jpa(HibernatePersistenceProvider.class[HibernatePersistenceProvider" modifiers="33" timestamp="1598535418000"/>
+    <typeInfo handle="=exercicios-jpa/libs\/mysql-connector-java-5.1.49.jar&lt;com.mysql.jdbc(Driver.class[Driver" modifiers="33" timestamp="1601514075430"/>
+    <typeInfo handle="=exercicios-jpa/libs\/hibernate-core-5.4.21.Final.jar&lt;org.hibernate.dialect(MySQL55Dialect.class[MySQL55Dialect" modifiers="33" timestamp="1598535418000"/>
+    <typeInfo handle="=clinica/C:\/Program Files\/Java\/jdk-14.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/14\/docs\/api\/=/&lt;java.lang(Error.class[Error" modifiers="33" timestamp="1597973401606"/>
+    <typeInfo handle="=clinica/C:\/Program Files\/Java\/jdk-14.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/14\/docs\/api\/=/&lt;java.lang(Throwable.class[Throwable" modifiers="33" timestamp="1597973401606"/>
 </typeInfoHistroy>
